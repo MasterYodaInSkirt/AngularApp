@@ -1,3 +1,3 @@
-# Learning Angular 7 trough overview implemntation
+# Learning Angular 7 through overview implemntation
 
-1. Used ts/scss/html/gulp
+1. Used ts/scss/html/gulp ...
